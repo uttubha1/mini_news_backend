@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Output of npm commands
+package-lock.json
+
+# Dependency directories
+# https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
+public/
+coverage/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
